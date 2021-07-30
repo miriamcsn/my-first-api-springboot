@@ -1,2 +1,2 @@
 # my-first-api-springboot
-A very simple project to learn how to build and generate a docker image of a spring boot project with Java.
+In this very simple project, I used some features of the Springboot framework, and learned how to resolve dependencies & build a project using Gradle. Then, I generated a docker image of the project using command line and uploaded it to my Docker Hub account (@miriamnunes).
